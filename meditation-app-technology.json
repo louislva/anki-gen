@@ -1,0 +1,212 @@
+[
+    {
+        "front": "Hola, \u00bfc\u00f3mo te llamas?",
+        "back": "Hi, what's your name?",
+        "explanation": "Use this to ask someone's name. '\u00bfC\u00f3mo te llamas?' translates word-for-word as 'How do you call yourself?'. 'Hola' is the standard greeting 'Hi' or 'Hello'.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Me llamo Louis.",
+        "back": "My name is Louis.",
+        "explanation": "'Me llamo' means 'I call myself' and is used to say 'My name is'.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Mucho gusto.",
+        "back": "Nice to meet you.",
+        "explanation": "This is a standard phrase used after meeting someone, equivalent to 'Pleased to meet you'.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfDe d\u00f3nde eres?",
+        "back": "Where are you from?",
+        "explanation": "Use this to inquire about someone's origin. Literally translates as 'From where are you?'.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Soy de [tu pa\u00eds].",
+        "back": "I am from [your country].",
+        "explanation": "'Soy de' means 'I am from'. Fill in '[tu pa\u00eds]' with your country of origin.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfQu\u00e9 haces?",
+        "back": "What do you do?",
+        "explanation": "This is a way to ask someone about their occupation or what they are currently doing. It can also be phrased as '\u00bfA qu\u00e9 te dedicas?' for occupation specifically.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Estoy asistiendo a una conferencia sobre la conciencia.",
+        "back": "I'm attending a conference on consciousness.",
+        "explanation": "'Estoy asistiendo' means 'I am attending'. 'Conferencia sobre la conciencia' translates as 'conference on consciousness'.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfEn qu\u00e9 trabajas?",
+        "back": "What do you work in?",
+        "explanation": "This is another way to ask about someone's job. It's more specific than '\u00bfQu\u00e9 haces?'",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Estoy desarrollando una aplicaci\u00f3n de meditaci\u00f3n.",
+        "back": "I am building a meditation app.",
+        "explanation": "'Estoy desarrollando' means 'I am developing/building', and 'una aplicaci\u00f3n de meditaci\u00f3n' is 'a meditation app'.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfCu\u00e1l es tu experiencia con la meditaci\u00f3n?",
+        "back": "What's your experience with meditation?",
+        "explanation": "Use this to ask about someone's background or experience in meditation.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfTienes alguna experiencia en el campo de la conciencia?",
+        "back": "Do you have any experience in the field of consciousness?",
+        "explanation": "This sentence is useful for asking someone about their professional or research background in consciousness studies.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfCu\u00e1l es tu formaci\u00f3n en el tema de la cualia?",
+        "back": "What's your background in qualia?",
+        "explanation": "'Formaci\u00f3n' can mean education or training, so this sentence asks about academic or professional background in the study of qualia.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Estoy interesado en las aplicaciones pr\u00e1cticas de la teor\u00eda de la conciencia.",
+        "back": "I'm interested in the practical applications of consciousness theory.",
+        "explanation": "'Estoy interesado' means 'I am interested', and 'en las aplicaciones pr\u00e1cticas de la teor\u00eda de la conciencia' translates as 'in the practical applications of consciousness theory'.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfC\u00f3mo crees que la tecnolog\u00eda puede influir en la expansi\u00f3n de la conciencia?",
+        "back": "How do you think technology can influence the expansion of consciousness?",
+        "explanation": "A more advanced conversation starter for discussing the intersection of technology and consciousness studies.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Mi enfoque es combinar la meditaci\u00f3n con la ciencia moderna.",
+        "back": "My focus is to combine meditation with modern science.",
+        "explanation": "'Mi enfoque es' means 'My focus is', and the rest of the sentence translates directly. Useful for explaining your approach or philosophy.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Hola, \u00bfcu\u00e1l es tu nombre? Mi nombre es Louis.",
+        "back": "Hello, what's your name? My name is Louis.",
+        "explanation": "A polite way to introduce yourself and ask for someone's name.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "No hablo mucho espa\u00f1ol.",
+        "back": "I don't speak much Spanish.",
+        "explanation": "Useful to let others know your Spanish proficiency is limited.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfPodr\u00edas hablar m\u00e1s despacio, por favor?",
+        "back": "Could you speak more slowly, please?",
+        "explanation": "Helpful when you're having trouble understanding rapid Spanish speech.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfPuedes repetir eso?",
+        "back": "Can you repeat that?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfD\u00f3nde est\u00e1 el ba\u00f1o?",
+        "back": "Where is the bathroom?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Estoy aprendiendo espa\u00f1ol.",
+        "back": "I am learning Spanish.",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Estoy aqu\u00ed para la conferencia sobre conciencia.",
+        "back": "I am here for the consciousness conference.",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "Estoy desarrollando una aplicaci\u00f3n de meditaci\u00f3n.",
+        "back": "I am developing a meditation app.",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfCu\u00e1l es tu experiencia con la meditaci\u00f3n?",
+        "back": "What is your experience with meditation?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "Me interesa la relaci\u00f3n entre la mente y la conciencia.",
+        "back": "I am interested in the relationship between the mind and consciousness.",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfQu\u00e9 opinas sobre la naturaleza de la conciencia?",
+        "back": "What do you think about the nature of consciousness?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfC\u00f3mo podemos medir los estados alterados de conciencia?",
+        "back": "How can we measure altered states of consciousness?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfCrees en la existencia de una conciencia colectiva?",
+        "back": "Do you believe in the existence of a collective consciousness?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfC\u00f3mo se relaciona la cualia con la experiencia subjetiva?",
+        "back": "How does qualia relate to subjective experience?",
+        "explanation": "Use this to delve into discussions of qualitative experiences unique to individuals.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfC\u00f3mo puede la tecnolog\u00eda mejorar nuestra comprensi\u00f3n de la conciencia?",
+        "back": "How can technology enhance our understanding of consciousness?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    }
+]

@@ -2,7 +2,7 @@ from openai import OpenAI
 import json
 import time
 
-def generate(situation: str, specific_examples: str, n_flashcards: int, language: str = "spanish", country: str = "Mexico", step_size=50):
+def generate(situation: str, specific_examples: str, n_flashcards: int, language: str = "spanish", country: str = "Mexico", step_size=15):
     system_message = """You generate flashcards, as a JSON array, in the following format:
 
 {
@@ -44,6 +44,10 @@ Focus on SENTENCES not words."""
     flashcards = []
     
     while len(flashcards) < n_flashcards:
+        print("Waiting...")
+        time.sleep(5)
+        print()
+        print("Running")
         try:
             response = client.chat.completions.create(
                 model="gpt-4-1106-preview",
