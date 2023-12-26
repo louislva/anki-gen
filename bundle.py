@@ -51,4 +51,4 @@ def create_deck(filename, deck_name="Custom Deck"):
 
 if __name__ == "__main__":
     # Call the function with your data
-    create_deck("1703622113.json", "My Custom Test Deck")
+    create_deck("merged-shuffled.json", "Qualia Deck")
