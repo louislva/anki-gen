@@ -1,0 +1,429 @@
+[
+    {
+        "front": "Hola, \u00bfc\u00f3mo te llamas? Me llamo Louis.",
+        "back": "Hi, what's your name? My name is Louis.",
+        "explanation": "Hola - Hi, \u00bfc\u00f3mo - how, te llamas - you call yourself (what's your name), Me llamo - I call myself (My name is), Louis - Louis.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Mucho gusto en conocerte.",
+        "back": "Nice to meet you.",
+        "explanation": "'Mucho gusto' - A lot of pleasure, 'en' - in, 'conocerte' - meeting you (from conocer: to meet).",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfDe d\u00f3nde eres?",
+        "back": "Where are you from?",
+        "explanation": "\u00bfDe d\u00f3nde - Where from, eres - are you?",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Soy de [your country].",
+        "back": "I am from [your country].",
+        "explanation": "Soy - I am, de - from, [your country] - name of your country in Spanish.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfHay alguna conferencia sobre la conciencia hoy?",
+        "back": "Is there a lecture on consciousness today?",
+        "explanation": "\u00bfHay - Is there, alguna - any, conferencia - conference/lecture, sobre - about, la conciencia - consciousness, hoy - today?",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfPuedes hablar m\u00e1s despacio, por favor?",
+        "back": "Can you speak more slowly, please?",
+        "explanation": "\u00bfPuedes - Can you, hablar - speak, m\u00e1s despacio - more slowly, por favor - please?",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "No entiendo, \u00bfpuedes repetirlo?",
+        "back": "I don't understand, can you repeat that?",
+        "explanation": "No entiendo - I don't understand, \u00bfpuedes - can you, repetirlo - repeat it?",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfQu\u00e9 significa 'cualia'?",
+        "back": "What does 'qualia' mean?",
+        "explanation": "\u00bfQu\u00e9 - What, significa - means, 'cualia' - 'qualia'?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La conciencia es un tema complejo de explorar.",
+        "back": "Consciousness is a complex topic to explore.",
+        "explanation": "La conciencia - Consciousness, es - is, un tema - a topic, complejo - complex, de explorar - to explore.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfCrees en la existencia de la inteligencia artificial consciente?",
+        "back": "Do you believe in the existence of conscious artificial intelligence?",
+        "explanation": "\u00bfCrees - Do you believe, en - in, la existencia - the existence, de la inteligencia artificial - of artificial intelligence, consciente - conscious?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "El problema de la uni\u00f3n en la conciencia es un desaf\u00edo.",
+        "back": "The binding problem in consciousness is a challenge.",
+        "explanation": "El problema - The problem, de la uni\u00f3n - of the binding, en la conciencia - in consciousness, es un desaf\u00edo - is a challenge.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La meditaci\u00f3n puede ayudar a mejorar la atenci\u00f3n consciente.",
+        "back": "Meditation can help to improve conscious attention.",
+        "explanation": "La meditaci\u00f3n - Meditation, puede - can, ayudar - help, a mejorar - to improve, la atenci\u00f3n - the attention, consciente - conscious.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfHas tenido alguna vez una experiencia con psicod\u00e9licos?",
+        "back": "Have you ever had an experience with psychedelics?",
+        "explanation": "\u00bfHas tenido - Have you had, alguna vez - ever an, una experiencia - experience, con - with, psicod\u00e9licos - psychedelics?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Es interesante c\u00f3mo la percepci\u00f3n cambia durante la meditaci\u00f3n.",
+        "back": "It's interesting how perception changes during meditation.",
+        "explanation": "Es interesante - It's interesting, c\u00f3mo - how, la percepci\u00f3n - the perception, cambia - changes, durante - during, la meditaci\u00f3n - meditation.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La sincronizaci\u00f3n neuronal es un aspecto del problema de la uni\u00f3n.",
+        "back": "Neuronal synchronization is an aspect of the binding problem.",
+        "explanation": "La sincronizaci\u00f3n - Synchronization, neuronal - neuronal, es - is, un aspecto - an aspect, del problema - of the problem, de la uni\u00f3n - of the binding.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfD\u00f3nde se encuentra el ba\u00f1o?",
+        "back": "Where is the bathroom?",
+        "explanation": "\u00bfD\u00f3nde - Where, se encuentra - is located, el ba\u00f1o - the bathroom?",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfA qu\u00e9 hora comienza la conferencia?",
+        "back": "What time does the conference start?",
+        "explanation": "\u00bfA qu\u00e9 hora - At what time, comienza - starts, la conferencia - the conference?",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfPodr\u00eda repetir lo que dijo?",
+        "back": "Could you repeat what you said?",
+        "explanation": "\u00bfPodr\u00eda - Could you (formal), repetir - repeat, lo que dijo - what you said?",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "No hablo espa\u00f1ol muy bien.",
+        "back": "I do not speak Spanish very well.",
+        "explanation": "No hablo - I do not speak, espa\u00f1ol - Spanish, muy bien - very well.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Estoy aprendiendo espa\u00f1ol.",
+        "back": "I am learning Spanish.",
+        "explanation": "Estoy - I am, aprendiendo - learning, espa\u00f1ol - Spanish.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfPodr\u00edas hablar en ingl\u00e9s?",
+        "back": "Could you speak in English?",
+        "explanation": "\u00bfPodr\u00edas - Could you, hablar - speak, en ingl\u00e9s - in English?",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Me interesa el tema de la consciencia artificial.",
+        "back": "I am interested in the topic of artificial consciousness.",
+        "explanation": "Me interesa - I am interested, el tema - the topic, de la consciencia artificial - of artificial consciousness.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfCu\u00e1l es tu opini\u00f3n sobre los psicod\u00e9licos y la consciencia?",
+        "back": "What is your opinion on psychedelics and consciousness?",
+        "explanation": "\u00bfCu\u00e1l es - What is, tu opini\u00f3n - your opinion, sobre - about/on, los psicod\u00e9licos - psychedelics, y - and, la consciencia - consciousness?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfC\u00f3mo definir\u00edas la cualia?",
+        "back": "How would you define qualia?",
+        "explanation": "\u00bfC\u00f3mo - How, definir\u00edas - would you define, la cualia - qualia?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La conferencia sobre meditaci\u00f3n fue muy informativa.",
+        "back": "The lecture on meditation was very informative.",
+        "explanation": "La conferencia - The conference, sobre - on/about, meditaci\u00f3n - meditation, fue - was, muy - very, informativa - informative.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "El fen\u00f3meno de la consciencia sigue siendo un misterio.",
+        "back": "The phenomenon of consciousness remains a mystery.",
+        "explanation": "El fen\u00f3meno - The phenomenon, de la consciencia - of consciousness, sigue siendo - continues being/remains, un misterio - a mystery.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfQu\u00e9 implicaciones tiene la inteligencia artificial en nuestra comprensi\u00f3n de la consciencia?",
+        "back": "What implications does artificial intelligence have on our understanding of consciousness?",
+        "explanation": "\u00bfQu\u00e9 implicaciones - What implications, tiene - does it have, la inteligencia artificial - artificial intelligence, en nuestra comprensi\u00f3n - on our understanding, de la consciencia - of consciousness?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfPuedes recomendarme alg\u00fan libro sobre la consciencia?",
+        "back": "Can you recommend me any book on consciousness?",
+        "explanation": "\u00bfPuedes - Can you, recomendarme - recommend to me, alg\u00fan libro - any book, sobre la consciencia - on consciousness?",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfCrees que los animales tienen consciencia?",
+        "back": "Do you think that animals have consciousness?",
+        "explanation": "\u00bfCrees - Do you think, que - that, los animales - animals, tienen consciencia - have consciousness?",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "La neurociencia ha avanzado mucho en la comprensi\u00f3n de la consciencia.",
+        "back": "Neuroscience has made great advances in the understanding of consciousness.",
+        "explanation": "La neurociencia - Neuroscience, ha avanzado - has advanced, mucho - a lot/much, en la comprensi\u00f3n - in the understanding, de la consciencia - of consciousness.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfCu\u00e1l es tu campo de estudio dentro de la consciencia?",
+        "back": "What is your field of study within consciousness?",
+        "explanation": "\u00bfCu\u00e1l es - What is, tu campo de estudio - your field of study, dentro de - within, la consciencia - consciousness?",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfQu\u00e9 ponente te ha impresionado m\u00e1s en esta conferencia?",
+        "back": "Which speaker has impressed you the most at this conference?",
+        "explanation": "\u00bfQu\u00e9 ponente - Which speaker, te ha impresionado - has impressed you, m\u00e1s - the most, en esta conferencia - at this conference?",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfC\u00f3mo influyen los psicod\u00e9licos en la percepci\u00f3n de la realidad?",
+        "back": "How do psychedelics influence the perception of reality?",
+        "explanation": "\u00bfC\u00f3mo - How, influyen - do influence, los psicod\u00e9licos - psychedelics, en la percepci\u00f3n - in the perception, de la realidad - of reality?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Es fascinante c\u00f3mo la consciencia puede alterarse con diferentes m\u00e9todos.",
+        "back": "It's fascinating how consciousness can be altered with different methods.",
+        "explanation": "Es fascinante - It's fascinating, c\u00f3mo - how, la consciencia - consciousness, puede - can, alterarse - be altered, con - with, diferentes - different, m\u00e9todos - methods.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La inteligencia artificial plantea preguntas \u00e9ticas importantes sobre la consciencia.",
+        "back": "Artificial intelligence raises important ethical questions about consciousness.",
+        "explanation": "La inteligencia artificial - Artificial intelligence, plantea - raises, preguntas \u00e9ticas - ethical questions, importantes - important, sobre - about, la consciencia - consciousness.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfEn qu\u00e9 trabajas?",
+        "back": "What do you do for work?",
+        "explanation": "\u00bfEn qu\u00e9 - In what, trabajas - do you work?",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Vengo a aprender m\u00e1s sobre el misterio de la consciencia.",
+        "back": "I come to learn more about the mystery of consciousness.",
+        "explanation": "Vengo - I come, a aprender - to learn, m\u00e1s - more, sobre - about, el misterio - the mystery, de la consciencia - of consciousness.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "Estoy interesado en c\u00f3mo la tecnolog\u00eda puede influir en la consciencia.",
+        "back": "I am interested in how technology can influence consciousness.",
+        "explanation": "Estoy interesado - I am interested, en c\u00f3mo - in how, la tecnolog\u00eda - technology, puede influir - can influence, en la consciencia - in consciousness.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfC\u00f3mo podemos medir la consciencia?",
+        "back": "How can we measure consciousness?",
+        "explanation": "\u00bfC\u00f3mo - How, podemos - can we, medir - measure, la consciencia - consciousness?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "El impacto de los psicod\u00e9licos en la consciencia es un \u00e1rea de estudio emergente.",
+        "back": "The impact of psychedelics on consciousness is an emerging area of study.",
+        "explanation": "El impacto - The impact, de los psicod\u00e9licos - of psychedelics, en la consciencia - on consciousness, es - is, un \u00e1rea de estudio - an area of study, emergente - emerging.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "El problema dif\u00edcil de la consciencia todav\u00eda no tiene soluci\u00f3n.",
+        "back": "The hard problem of consciousness has not been solved yet.",
+        "explanation": "El problema dif\u00edcil - The hard problem, de la consciencia - of consciousness, todav\u00eda - yet/still, no tiene - has not, soluci\u00f3n - solution.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfCu\u00e1les son los temas principales de esta conferencia?",
+        "back": "What are the main topics of this conference?",
+        "explanation": "\u00bfCu\u00e1les son - What are, los temas principales - the main topics, de esta conferencia - of this conference?",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfPodemos hablar sobre tu experiencia con la meditaci\u00f3n?",
+        "back": "Can we talk about your experience with meditation?",
+        "explanation": "\u00bfPodemos - Can we, hablar - talk, sobre - about, tu experiencia - your experience, con la meditaci\u00f3n - with meditation?",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "En mi opini\u00f3n, la inteligencia artificial nunca alcanzar\u00e1 la consciencia humana.",
+        "back": "In my opinion, artificial intelligence will never reach human consciousness.",
+        "explanation": "En mi opini\u00f3n - In my opinion, la inteligencia artificial - artificial intelligence, nunca - never, alcanzar\u00e1 - will reach, la consciencia humana - human consciousness.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La relaci\u00f3n entre cualia y consciencia es profundamente intrigante.",
+        "back": "The relationship between qualia and consciousness is deeply intriguing.",
+        "explanation": "La relaci\u00f3n - The relationship, entre - between, cualia - qualia, y - and, consciencia - consciousness, es - is, profundamente - deeply, intrigante - intriguing.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfQu\u00e9 opinas sobre la posibilidad de una consciencia colectiva?",
+        "back": "What do you think about the possibility of a collective consciousness?",
+        "explanation": "\u00bfQu\u00e9 opinas - What do you think, sobre - about, la posibilidad - the possibility, de una consciencia colectiva - of a collective consciousness?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Estudios recientes sugieren una nueva perspectiva sobre la experiencia consciente.",
+        "back": "Recent studies suggest a new perspective on conscious experience.",
+        "explanation": "Estudios recientes - Recent studies, sugieren - suggest, una nueva perspectiva - a new perspective, sobre - on, la experiencia consciente - conscious experience.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfCu\u00e1les son los \u00faltimos avances en la investigaci\u00f3n de la consciencia?",
+        "back": "What are the latest advancements in consciousness research?",
+        "explanation": "\u00bfCu\u00e1les son - What are, los \u00faltimos - the latest, avances - advancements, en la investigaci\u00f3n - in the research, de la consciencia - of consciousness?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfPuedes explicarme la teor\u00eda de la consciencia integrada?",
+        "back": "Can you explain to me the integrated information theory of consciousness?",
+        "explanation": "\u00bfPuedes - Can you, explicarme - explain to me, la teor\u00eda - the theory, de la consciencia integrada - of integrated consciousness (integrated information theory)?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "El concepto de cualia es esencial para comprender la naturaleza de la consciencia.",
+        "back": "The concept of qualia is essential to understand the nature of consciousness.",
+        "explanation": "El concepto - The concept, de cualia - of qualia, es esencial - is essential, para comprender - to understand, la naturaleza - the nature, de la consciencia - of consciousness.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfC\u00f3mo puede la neurociencia contribuir a nuestro entendimiento de la consciencia?",
+        "back": "How can neuroscience contribute to our understanding of consciousness?",
+        "explanation": "\u00bfC\u00f3mo puede - How can, la neurociencia - neuroscience, contribuir a - contribute to, nuestro - our, entendimiento - understanding, de la consciencia - of consciousness?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Estoy aqu\u00ed para aprender m\u00e1s sobre la consciencia.",
+        "back": "I am here to learn more about consciousness.",
+        "explanation": "Estoy aqu\u00ed - I am here, para aprender m\u00e1s - to learn more, sobre - about, la consciencia - consciousness.",
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfC\u00f3mo podemos mejorar nuestra consciencia?",
+        "back": "How can we improve our consciousness?",
+        "explanation": "\u00bfC\u00f3mo podemos - How can we, mejorar - improve, nuestra consciencia - our consciousness?",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfExiste una consciencia universal?",
+        "back": "Is there a universal consciousness?",
+        "explanation": "\u00bfExiste - Is there, una consciencia - a consciousness, universal - universal?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La experiencia de cualia es subjetiva y personal.",
+        "back": "The experience of qualia is subjective and personal.",
+        "explanation": "La experiencia de - The experience of, cualia - qualia, es - is, subjetiva - subjective, y - and, personal - personal.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La meditaci\u00f3n ayuda a conectar con la consciencia interna.",
+        "back": "Meditation helps to connect with inner consciousness.",
+        "explanation": "La meditaci\u00f3n - Meditation, ayuda - helps, a conectar - to connect, con la consciencia - with the consciousness, interna - inner.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "El uso de psicod\u00e9licos requiere cuidadosa consideraci\u00f3n \u00e9tica.",
+        "back": "The use of psychedelics requires careful ethical consideration.",
+        "explanation": "El uso - The use, de psicod\u00e9licos - of psychedelics, requiere - requires, cuidadosa - careful, consideraci\u00f3n - consideration, \u00e9tica - ethical.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La inteligencia artificial nos desaf\u00eda a definir qu\u00e9 es la consciencia.",
+        "back": "Artificial intelligence challenges us to define what consciousness is.",
+        "explanation": "La inteligencia artificial - Artificial intelligence, nos desaf\u00eda - challenges us, a definir - to define, qu\u00e9 es - what is, la consciencia - consciousness.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "El problema de la uni\u00f3n se refiere a c\u00f3mo diferentes sensaciones se combinan en una experiencia unificada.",
+        "back": "The binding problem refers to how different sensations combine into a unified experience.",
+        "explanation": "El problema de la uni\u00f3n - The binding problem, se refiere a - refers to, c\u00f3mo - how, diferentes - different, sensaciones - sensations, se combinan - combine, en una experiencia - into an experience, unificada - unified.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfEste evento tiene sesiones sobre meditaci\u00f3n y consciencia?",
+        "back": "Does this event have sessions on meditation and consciousness?",
+        "explanation": "\u00bfEste evento - Does this event, tiene - have, sesiones - sessions, sobre - on, meditaci\u00f3n - meditation, y - and, consciencia? - consciousness?",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfQu\u00e9 investigaciones recientes han impactado nuestro entendimiento de la consciencia?",
+        "back": "What recent research has impacted our understanding of consciousness?",
+        "explanation": "\u00bfQu\u00e9 investigaciones - What research, recientes - recent, han impactado - has impacted, nuestro - our, entendimiento - understanding, de la consciencia? - of consciousness?",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    }
+]

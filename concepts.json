@@ -1,0 +1,499 @@
+[
+    {
+        "front": "Hola",
+        "back": "Hello",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfC\u00f3mo te llamas?",
+        "back": "What's your name?",
+        "explanation": "\u00bfC\u00f3mo (How) te (you) llamas (call yourself)? - a way to ask someone's name.",
+        "worksFromEitherSide": false,
+        "level": "basic"
+    },
+    {
+        "front": "Me llamo Louis",
+        "back": "My name is Louis",
+        "explanation": "Me (myself) llamo (I call) Louis - how to tell someone your name.",
+        "worksFromEitherSide": false,
+        "level": "basic"
+    },
+    {
+        "front": "Mucho gusto",
+        "back": "Nice to meet you",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfQu\u00e9?",
+        "back": "What?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfQui\u00e9n?",
+        "back": "Who?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfCu\u00e1ndo?",
+        "back": "When?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfD\u00f3nde?",
+        "back": "Where?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfPor qu\u00e9?",
+        "back": "Why?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfC\u00f3mo?",
+        "back": "How?",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "S\u00ed",
+        "back": "Yes",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "No",
+        "back": "No",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Por favor",
+        "back": "Please",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Gracias",
+        "back": "Thank you",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "De nada",
+        "back": "You're welcome",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Disculpa",
+        "back": "Excuse me",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Lo siento",
+        "back": "I'm sorry",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "basic"
+    },
+    {
+        "front": "Consciencia",
+        "back": "Consciousness",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Cualia",
+        "back": "Qualia",
+        "explanation": "Refers to individual instances of subjective, conscious experience.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Meditaci\u00f3n",
+        "back": "Meditation",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "El problema del enlace (binding problem)",
+        "back": "The binding problem",
+        "explanation": "El (the) problema (problem) del (of the) enlace (binding) - a term used in neuroscience.",
+        "worksFromEitherSide": false,
+        "level": "advanced"
+    },
+    {
+        "front": "Psicod\u00e9licos",
+        "back": "Psychedelics",
+        "explanation": null,
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "Inteligencia Artificial",
+        "back": "Artificial Intelligence",
+        "explanation": "Inteligencia (intelligence) Artificial (artificial) - a field of study in computer science.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfPuedes ayudarme?",
+        "back": "Can you help me?",
+        "explanation": "\u00bfPuedes (can you) ayudarme (help me)? - asking for assistance.",
+        "worksFromEitherSide": false,
+        "level": "basic"
+    },
+    {
+        "front": "No entiendo",
+        "back": "I don't understand",
+        "explanation": "No (not) entiendo (I understand) - indicating lack of comprehension.",
+        "worksFromEitherSide": false,
+        "level": "basic"
+    },
+    {
+        "front": "M\u00e1s despacio, por favor",
+        "back": "Slower, please",
+        "explanation": "M\u00e1s (more) despacio (slowly), por favor (please) - asking someone to speak slower.",
+        "worksFromEitherSide": false,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfD\u00f3nde est\u00e1 el ba\u00f1o?",
+        "back": "Where is the bathroom?",
+        "explanation": "\u00bfD\u00f3nde (where) est\u00e1 (is) el (the) ba\u00f1o (bathroom)? - useful question for finding a restroom.",
+        "worksFromEitherSide": false,
+        "level": "basic"
+    },
+    {
+        "front": "La conferencia",
+        "back": "The conference",
+        "explanation": "La (the) conferencia (conference) - referring to the event you're attending.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "El taller",
+        "back": "The workshop",
+        "explanation": "El (the) taller (workshop) - a smaller, interactive session within the conference.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "La presentaci\u00f3n",
+        "back": "The presentation",
+        "explanation": "La (the) presentaci\u00f3n (presentation) - referring to a speaker's delivery.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "El ponente",
+        "back": "The speaker",
+        "explanation": "El (the) ponente (speaker) - the person giving the talk.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "Un evento",
+        "back": "An event",
+        "explanation": "Un (an) evento (event) - could be used to refer to any happening at the conference.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "La charla",
+        "back": "The talk",
+        "explanation": "La (the) charla (talk) - a casual term for a presentation or lecture.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "La ciencia",
+        "back": "The science",
+        "explanation": "La (the) ciencia (science) - often discussed at a consciousness conference.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "Investigaci\u00f3n",
+        "back": "Research",
+        "explanation": "Investigaci\u00f3n (research) - study and work done to learn more about a particular subject.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "Exploraci\u00f3n de la conciencia",
+        "back": "Exploration of consciousness",
+        "explanation": "Exploraci\u00f3n (exploration) de (of) la (the) conciencia (consciousness) - researching or discussing the aspects of conscious experience.",
+        "worksFromEitherSide": false,
+        "level": "advanced"
+    },
+    {
+        "front": "Estado alterado de conciencia",
+        "back": "Altered state of consciousness",
+        "explanation": "Estado (state) alterado (altered) de (of) conciencia (consciousness) - a mental state that is different from the normal waking state.",
+        "worksFromEitherSide": false,
+        "level": "advanced"
+    },
+    {
+        "front": "Percepci\u00f3n",
+        "back": "Perception",
+        "explanation": "Percepci\u00f3n (perception) - the ability to see, hear, or become aware of something through the senses.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "Realidad",
+        "back": "Reality",
+        "explanation": "Realidad (reality) - the world or the state of things as they actually exist.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "Experiencia subjetiva",
+        "back": "Subjective experience",
+        "explanation": "Experiencia (experience) subjetiva (subjective) - a personal perspective or feeling which doesn't necessarily have a counterpart in objective reality.",
+        "worksFromEitherSide": false,
+        "level": "advanced"
+    },
+    {
+        "front": "La mente",
+        "back": "The mind",
+        "explanation": "La (the) mente (mind) - the element of a person that enables them to be aware, think, and feel; the seat of consciousness and thought.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "El cerebro",
+        "back": "The brain",
+        "explanation": "El (the) cerebro (brain) - the organ in the head of animals with a nervous system; the control center for the body's other organs.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "Neurociencia",
+        "back": "Neuroscience",
+        "explanation": "Neurociencia (neuroscience) - the science of the nerves and especially of how nerves affect learning and behavior.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Experiencia",
+        "back": "Experience",
+        "explanation": "Experiencia (experience) - the knowledge or skill acquired by experience over a period of time, especially that gained in a particular profession by someone at work.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "Fenomenolog\u00eda",
+        "back": "Phenomenology",
+        "explanation": "Fenomenolog\u00eda (phenomenology) - the philosophical study of the structures of experience and consciousness.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Metaconciencia",
+        "back": "Meta-consciousness",
+        "explanation": "Metaconciencia (meta-consciousness) - the awareness of one's own consciousness.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Cognici\u00f3n",
+        "back": "Cognition",
+        "explanation": "Cognici\u00f3n (cognition) - the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Introspecci\u00f3n",
+        "back": "Introspection",
+        "explanation": "Introspecci\u00f3n (introspection) - the examination or observation of one's own mental and emotional processes.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "\u00bfPuede repetir eso, por favor?",
+        "back": "Can you repeat that, please?",
+        "explanation": "\u00bfPuede (Can you) repetir (repeat) eso (that), por favor (please)?",
+        "worksFromEitherSide": false,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfD\u00f3nde se encuentra la sala de conferencias?",
+        "back": "Where is the conference room?",
+        "explanation": "\u00bfD\u00f3nde (Where) se encuentra (is located) la (the) sala (room) de conferencias (of conferences)?",
+        "worksFromEitherSide": false,
+        "level": "basic"
+    },
+    {
+        "front": "Me gustar\u00eda aprender m\u00e1s sobre...",
+        "back": "I would like to learn more about...",
+        "explanation": "Me gustar\u00eda (I would like) aprender (to learn) m\u00e1s sobre (more about)...",
+        "worksFromEitherSide": false,
+        "level": "intermediate"
+    },
+    {
+        "front": "Estoy interesado en...",
+        "back": "I am interested in...",
+        "explanation": "Estoy (I am) interesado (interested) en (in)...",
+        "worksFromEitherSide": false,
+        "level": "intermediate"
+    },
+    {
+        "front": "\u00bfCu\u00e1l es tu opini\u00f3n sobre...?",
+        "back": "What is your opinion on...?",
+        "explanation": "\u00bfCu\u00e1l (What) es (is) tu (your) opini\u00f3n (opinion) sobre (on)...?",
+        "worksFromEitherSide": false,
+        "level": "intermediate"
+    },
+    {
+        "front": "Estoy aqu\u00ed para aprender.",
+        "back": "I'm here to learn.",
+        "explanation": "Estoy (I am) aqu\u00ed (here) para (to) aprender (learn).",
+        "worksFromEitherSide": false,
+        "level": "basic"
+    },
+    {
+        "front": "No hablo espa\u00f1ol muy bien.",
+        "back": "I don't speak Spanish very well.",
+        "explanation": "No (I don't) hablo (speak) espa\u00f1ol (Spanish) muy bien (very well).",
+        "worksFromEitherSide": false,
+        "level": "basic"
+    },
+    {
+        "front": "\u00bfHablas ingl\u00e9s?",
+        "back": "Do you speak English?",
+        "explanation": "\u00bfHablas (Do you speak) ingl\u00e9s (English)?",
+        "worksFromEitherSide": false,
+        "level": "basic"
+    },
+    {
+        "front": "Podemos comunicarnos con un traductor.",
+        "back": "We can communicate with a translator.",
+        "explanation": "Podemos (We can) comunicarnos (communicate) con (with) un (a) traductor (translator).",
+        "worksFromEitherSide": false,
+        "level": "intermediate"
+    },
+    {
+        "front": "El entendimiento",
+        "back": "The understanding",
+        "explanation": "El (The) entendimiento (understanding) - comprehension or grasp of a subject.",
+        "worksFromEitherSide": true,
+        "level": "intermediate"
+    },
+    {
+        "front": "La cognici\u00f3n encarnada",
+        "back": "Embodied cognition",
+        "explanation": "La (The) cognici\u00f3n (cognition) encarnada (embodied) - the theory that the mind is deeply influenced by the body and its interaction with the environment.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "Percepci\u00f3n extrasensorial",
+        "back": "Extrasensory perception",
+        "explanation": "Percepci\u00f3n (Perception) extrasensorial (extrasensory) - claimed reception of information not gained through the recognized physical senses.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La dualidad mente-cuerpo",
+        "back": "The mind-body dualism",
+        "explanation": "La (The) dualidad (dualism) mente-cuerpo (mind-body) - the philosophical viewpoint that mind and body are distinct kinds of substances or natures.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La teor\u00eda de la identidad",
+        "back": "The identity theory",
+        "explanation": "La (The) teor\u00eda (theory) de (of) la (the) identidad (identity) - the theory that states that mental states and brain states are identical.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "El monismo",
+        "back": "Monism",
+        "explanation": "El (The) monismo (monism) - the philosophical viewpoint that a variety of existing things can be explained in terms of a single reality or substance.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "El panpsiquismo",
+        "back": "Panpsychism",
+        "explanation": "El (The) panpsiquismo (panpsychism) - the doctrine or belief that everything material, however small, has an element of individual consciousness.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La inteligencia colectiva",
+        "back": "Collective intelligence",
+        "explanation": "La (The) inteligencia (intelligence) colectiva (collective) - shared or group intelligence that emerges from collaboration and collective efforts.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "El emergentismo",
+        "back": "Emergentism",
+        "explanation": "El (The) emergentismo (emergentism) - the belief in emergence, especially as it involves consciousness and the philosophy of mind.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La autoconciencia",
+        "back": "Self-awareness",
+        "explanation": "La (The) autoconciencia (self-awareness) - conscious knowledge of one's own character, feelings, motives, and desires.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "El materialismo",
+        "back": "Materialism",
+        "explanation": "El (The) materialismo (materialism) - the doctrine that nothing exists except matter and its movements and modifications.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "El reduccionismo",
+        "back": "Reductionism",
+        "explanation": "El (The) reduccionismo (reductionism) - the reduction of complex systems to simpler components that are more manageable to study.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "El libre albedr\u00edo",
+        "back": "Free will",
+        "explanation": "El (The) libre (free) albedr\u00edo (will) - the power of acting without the constraint of necessity or fate; the ability to act at one's own discretion.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    },
+    {
+        "front": "La subjetividad",
+        "back": "Subjectivity",
+        "explanation": "La (The) subjetividad (subjectivity) - the quality of being based on or influenced by personal feelings, tastes, or opinions.",
+        "worksFromEitherSide": true,
+        "level": "advanced"
+    }
+]
